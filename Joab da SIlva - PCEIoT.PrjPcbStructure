@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=[1] System block diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[2] BlockDiagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[3] TopLevel.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[4] Sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[5] ButtonsAndLeds.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[6] RgbLed.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[7] PowerManagement.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[8] Conectors.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=[1] System block diagram.SchDoc|FileName=[9] Mechanical.SchDoc|SheetNumber=9
